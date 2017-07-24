@@ -1,0 +1,5 @@
+name -> 1
+is -> 1
+aakash -> 2
+my -> 1
+hello -> 1

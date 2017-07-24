@@ -1,0 +1,4 @@
+Protocol -> https
+Host -> google
+Domain -> co.in
+Query Parameter -> Map(aqs -> chrome..69i57j0l5.7721j0j8, q -> scalastyle, sourceid -> chrome, oq -> scalastyle, ie -> UTF-8)
